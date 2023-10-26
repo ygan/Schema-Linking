@@ -1,7 +1,4 @@
 # Schema-Linking
-For paper: Re-appraising the Schema Linking for Text-to-SQL
-
-
 This repository contains data for the ACL 2023 findings paper ["Re-appraising the Schema Linking for Text-to-SQL"](https://aclanthology.org/2023.findings-acl.53/).
 
 If you use the data in your work, please cite it as follows:
